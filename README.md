@@ -1,0 +1,1 @@
+Proyecto utilizado para la asignatura de Redes Definidas por Software (SDN). El proyecto emplea un controlador y técnicas de Machine Learning (SVM) para analizar, aprender y mitigar ataques de denegación de servicio distribuidos (DDOS).
